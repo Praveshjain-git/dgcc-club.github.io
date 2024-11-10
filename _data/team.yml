@@ -1,0 +1,23 @@
+# <img src="/images/team/placeholder.png">
+# <p class="label">🖥️ Programmer 🖥️</p>
+# <p class="label">🔌 Electrician 🔌</p>
+# <p class="label">🔧 Mechanic 🔧</p>
+# <p class="label">🚧 Safety 🚧</p>
+# <p class="label">⚙️ Member ⚙️</p>
+# <p class="label">⭐️ Team Captain ⭐️</p>
+# <h5>Name 'year</h5>
+# <p>Name is a first year subject.</p>
+
+team:
+  # Leads
+  - name: "Hridoy Sankar Dutta"
+    year: ""
+    role: "⭐️ Faculty representative ⭐️"
+    image: "/images/team/hsd.jpg"
+    bio: "Hridoy is the faculty representative of this club."
+  # Student
+  - name: "Student 1"
+    year: "'25"
+    role: "Member"
+    image: "/images/team/tbd.jpg"
+    bio: ""
