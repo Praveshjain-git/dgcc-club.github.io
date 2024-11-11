@@ -24,6 +24,9 @@ This website uses the Jekyll templating system and is hosted as a GitHub page ou
 
 3. Navigate to `localhost:4000` to view the output of the site.
 
+## Contribution
+Add your data to `_data/team.yml` and send a PR to this repo. Once the PR is merged with all test cases passed, it will automatically be reflected on the website.
+
 ## Pushing
 After implementing all the changes necessary, you will need to push this to your github fork.
 
