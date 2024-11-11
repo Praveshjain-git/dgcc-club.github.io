@@ -14,15 +14,18 @@ This website uses the Jekyll templating system and is hosted as a GitHub page ou
       gem install bundler jekyll --user
 
 ## Setup
-1. While in cloned folder, run:
+1. `git clone git@github.com:DGCC-Club/dgcc-club.github.io.git` to clone the repo using SSH.
+2. While in cloned folder, run:
 
        bundle install
 
-2. Then, to start Jekyll, run:
+3. Then, to start Jekyll, run:
 
        bundle exec jekyll serve --livereload
+       OR
+       bundle exec jekyll server --watch
 
-3. Navigate to `localhost:4000` to view the output of the site.
+5. Navigate to `localhost:4000` to view the output of the site.
 
 ## Contribution
 Add your data to `_data/team.yml` and send a PR to this repo. Once the PR is merged with all test cases passed, it will automatically be reflected on the website.
