@@ -1,5 +1,5 @@
-# Team 1418 Website
-This repository contains the content that is served on [1418.team](https://1418.team).
+# Team Deakin GIFT City coding club website
+This repository contains the content that is served on [https://dgcc-club.github.io/](https://dgcc-club.github.io/).
 
 This website uses the Jekyll templating system and is hosted as a GitHub page out of this repository.
 
@@ -58,9 +58,8 @@ When running steps in [Setup](#-Setup), there may be an error while installing c
 
 Then retry the steps in [Setup](#-Setup).
 
-## Authors
-* [Erik Boesen](https://github.com/ErikBoesen) - Code, art & design
-* [Carter Fendley](https://github.com/CarterFendley) - Code
+## Credit
+Website template: [1418.team](https://github.com/frc1418/frc1418.github.io)
 
 ## License
 This software is protected under the MIT license. Basically, do whatever you want as long as you give credit where credit is due and don't hold us liable for anything that happens. More information can be found in [`LICENSE`](LICENSE).
