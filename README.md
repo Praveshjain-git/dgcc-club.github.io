@@ -21,8 +21,6 @@ This website uses the Jekyll templating system and is hosted as a GitHub page ou
 
 3. Then, to start Jekyll, run:
 
-       bundle exec jekyll serve --livereload
-       OR
        bundle exec jekyll server --watch
 
 5. Navigate to `localhost:4000` to view the output of the site.
