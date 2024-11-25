@@ -21,3 +21,9 @@ team:
     role: "Lead Member"
     image: "/images/team/shounakb.png"
     bio: "Hello There! Nice to meet you!"
+  # Student
+  - name: "Pravesh Jain"
+    year: "'26"
+    role: "Member"
+    image: "/images/team/pravesh2026.jpg"
+    bio: " Hello- Git Club"
